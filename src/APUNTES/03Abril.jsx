@@ -6,3 +6,7 @@ Tambien de esta manera:
 También podríamos cargar imágenes almacenándolas en la carpeta public, utilizando una ruta absoluta:
 
 <img src="/images/image.png" />
+
+
+//Ant design segunda mejor app de página de diseños
+//Material design Mui
