@@ -1,6 +1,12 @@
-import { Box } from "./app/CSS/estilos"
+import Julieta from "./components/Julieta"
 
-const App = () => <Box><div></div></Box>
+
+const App = () => {
+    return (
+        <div>
+            <Julieta />
+        </div>
+    )
+}
 
 export default App
-

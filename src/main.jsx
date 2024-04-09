@@ -1,9 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from '../src/EJERCICIOS/Semana 2/Ejercicio18propspopup'
+import App from './App'
+import { GlobalStyle } from './components/Box/Box.styles';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+    <GlobalStyle />
     <App />
   </React.StrictMode>,
 )
