@@ -1,9 +1,10 @@
-import data from "./assets/data/questions"
+import Julieta from "./components/Julieta"
+
 
 const App = () => {
     return (
         <div>
-            {data.map()}
+            <Julieta />
         </div>
     )
 }
